@@ -1,5 +1,5 @@
-1. Hikaye paylaşma
-2. Hikayeye müzik ekleme
 3. Hikaye beğenme
+2. Hikayeye müzik ekleme
+1. Hikaye paylaşma
 4. Mesajlaşma
 5. Reels paylaşma
