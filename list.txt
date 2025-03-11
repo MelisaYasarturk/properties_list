@@ -1,0 +1,4 @@
+1. Hikaye paylaşma
+2. Hikayeye müzik ekleme
+3. Hikaye beğenme
+4. Mesajlaşma
